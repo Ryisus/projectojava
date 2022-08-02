@@ -5,7 +5,7 @@
 package proyectojava;
 
 /**
- *cosas de cosas de narnia de las cosas de narnia
+ *cosas de cosas de narnia de las cosas de narnia de todos
  
  * @author usuario2
  */
