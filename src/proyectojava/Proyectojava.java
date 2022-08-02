@@ -5,7 +5,8 @@
 package proyectojava;
 
 /**
- *caosas
+ *cosas de cosas
+ 
  * @author usuario2
  */
 public class Proyectojava {
